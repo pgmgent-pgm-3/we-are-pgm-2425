@@ -1,12 +1,3 @@
-# Hoe maak je een node app?
+# We Are PGM
 
-## Stap 1:
-mkdir we-are-pgm-api
-cd we-are-pgm-api
-
-## Stap 2:
-npm init
-
-## Stap 3:
-Doorloop de wizard. 
-*easy hack, druk gewoon 8 keer op enter*
+Code, live uit de les op 11/02/2025
